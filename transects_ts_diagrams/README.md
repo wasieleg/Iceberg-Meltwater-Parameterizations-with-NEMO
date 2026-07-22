@@ -1,1 +1,1 @@
-
+Temperature and salinity transects across **Baffin Bay** and **Davis Strait**, together with difference fields and T–S diagrams, used to compare the hydrographic properties of the ANHA4-EJM010 and ANHA4-EJM012 simulations.
