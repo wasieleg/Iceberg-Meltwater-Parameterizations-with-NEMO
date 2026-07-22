@@ -1,1 +1,1 @@
-
+Convective resistance (calculated to a reference depth of 2000m) and winter average mixed layer depth fields used to assess changes in water column stability of the Labrador Sea between the ANHA4-EJM010 and ANHA4-EJM012 simulations.
