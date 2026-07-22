@@ -1,1 +1,3 @@
+Mean temperature and salinity maps and their differences between the ANHA4-EJM010 and ANHA4-EJM012 simulations, including statistical significance assessed using Student's t-test.
 
+***Salinity_Dataset.ipynb*** and ***Temperature_Dataset.ipynb*** organize the annual temperature and salinity outputs into yearly datasets for statistical analysis, while ***Salinity_Map_T_test(Figure5).ipynb*** and ***Temperature_Map_T_test(Figure6).ipynb*** compute the time mean over 2007–2017, perform Student's t-tests for the upper (0–55 m) and lower (55–541 m) layers, generate the difference maps between the simulations, and indicate regions with statistically significant differences.
